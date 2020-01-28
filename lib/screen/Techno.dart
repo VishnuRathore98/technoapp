@@ -325,7 +325,7 @@ class Day3 extends StatelessWidget {
   }
 }
 
-Padding buildPadding(String img) {
+Padding buildPadding(String img,) {
   return Padding(
     padding: const EdgeInsets.all(5.0),
     child: Material(

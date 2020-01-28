@@ -66,14 +66,7 @@ class Sphoorti extends StatelessWidget {
               children: <Widget>[
                 Expanded(
                   child: Row(children: <Widget>[
-                    //buildPadding('sphoortiimg/kabaddi.png'),
-                    FlatButton(
-                      onPressed: () {},
-                      child: Card(
-                        child: Text('Cricket'),
-                        elevation: 100,
-                      ),
-                    ),
+                    buildPadding('sphoortiimg/cricket.png'),
                   ]),
                 ),
               ],

@@ -9,6 +9,6 @@
 <item>
         <bitmap
             android:gravity="center"
-            android:src="@drawable/auevents" />
+            android:src="@drawable/splash_screen4" />
     </item>
 </layer-list>
