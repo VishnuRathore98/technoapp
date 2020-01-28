@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619665210419",
+    "firebase_url": "https://techno-9f184.firebaseio.com",
+    "project_id": "techno-9f184",
+    "storage_bucket": "techno-9f184.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619665210419:android:f9a15518d3971aaa347746",
+        "android_client_info": {
+          "package_name": "com.techno.apex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619665210419-cdob14cfbhnhk3g8g6mc8b8q3hroepkb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjzsXNafaDbNcCts8kKI2NCg_hWvLEzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619665210419-cdob14cfbhnhk3g8g6mc8b8q3hroepkb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
