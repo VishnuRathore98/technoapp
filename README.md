@@ -1,6 +1,6 @@
-# registration_app
+# Techno App
 
-A new Flutter project.
+A Flutter project to register students from various institutes, colleges, and universities to participate in AIMS's annual event .
 
 ## Getting Started
 
